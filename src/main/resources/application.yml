@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: bible-battle
+
+  profiles:
+    active: local
